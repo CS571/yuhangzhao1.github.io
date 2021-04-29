@@ -1,11 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-title: CS-770 HCI
-subtitle: "CS/Psych/EdPsych-770 Human-Computer Interaction"
-author: Professor Mutlu
-description: "CS/Psych/EdPsych-770 Human-Computer Interaction, Spring 2020, Professor Mutlu, University of Wisconsin--Madison"
+color_scheme: "light"
+title: CS-571 
+subtitle: "CS-571 Building User Interfaces"
+author: Professor Zhao
+description: "CS-571 Building User Interfaces, Fall 2021, Professor Zhao, University of Wisconsin--Madison"
 search_enabled: true
-footer_content: "Copyright &copy 2020 Professor Bilge Mutlu"
+footer_content: "Copyright &copy 2021 Yuhang Zhao"
 header_pages:
   - index.md
   - schedule.md
